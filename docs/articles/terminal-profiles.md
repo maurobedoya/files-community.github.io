@@ -60,3 +60,14 @@ Fluent Terminal:
       "icon": ""
 }
 ```
+
+Wsl Terminal:
+
+```
+{
+      "name": "WSL",
+      "path": "wsl.exe",
+      "arguments": "",
+      "icon": ""
+}
+```
